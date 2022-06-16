@@ -1,31 +1,31 @@
-<script defer src="http://{{ $_SERVER['HTTP_HOST'] }}/assets/plugins/fontawesome/js/all.min.js"></script>
+<script defer src="https://{{ $_SERVER['HTTP_HOST'] }}/assets/plugins/fontawesome/js/all.min.js"></script>
 
-<script src="http://{{ $_SERVER['HTTP_HOST'] }}/assets/plugins/popper.min.js"></script>
-<script src="http://{{ $_SERVER['HTTP_HOST'] }}/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+<script src="https://{{ $_SERVER['HTTP_HOST'] }}/assets/plugins/popper.min.js"></script>
+<script src="https://{{ $_SERVER['HTTP_HOST'] }}/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
 
 <!-- Charts JS -->
-<script src="http://{{ $_SERVER['HTTP_HOST'] }}/assets/plugins/chart.js/chart.min.js"></script>
-<script src="http://{{ $_SERVER['HTTP_HOST'] }}/assets/js/index-charts.js"></script>
+<script src="https://{{ $_SERVER['HTTP_HOST'] }}/assets/plugins/chart.js/chart.min.js"></script>
+<script src="https://{{ $_SERVER['HTTP_HOST'] }}/assets/js/index-charts.js"></script>
 
 <!-- Page Specific JS -->
-<script src="http://{{ $_SERVER['HTTP_HOST'] }}/assets/js/app.js"></script>
+<script src="https://{{ $_SERVER['HTTP_HOST'] }}/assets/js/app.js"></script>
 
-{{-- <script type="text/javascript" src="http://cdn.datatables.net/1.12.0/js/dataTables.jqueryui.min.js"></script>
-<link rel="stylesheet" type="text/css" href="http://cdn.datatables.net/1.12.0/css/dataTables.jqueryui.min.css"/>
-<script type="text/javascript" src="http://cdn.datatables.net/1.12.0/js/jquery.dataTables.min.js"></script> --}}
+{{-- <script type="text/javascript" src="https://cdn.datatables.net/1.12.0/js/dataTables.jqueryui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.0/css/dataTables.jqueryui.min.css"/>
+<script type="text/javascript" src="https://cdn.datatables.net/1.12.0/js/jquery.dataTables.min.js"></script> --}}
 
 {{-- JQuery --}}
-<script defer src="http://{{ $_SERVER['HTTP_HOST'] }}/assets/plugins/fontawesome/js/all.min.js"></script>
+<script defer src="https://{{ $_SERVER['HTTP_HOST'] }}/assets/plugins/fontawesome/js/all.min.js"></script>
 
-<script src="http://{{ $_SERVER['HTTP_HOST'] }}/assets/plugins/popper.min.js"></script>
-<script src="http://{{ $_SERVER['HTTP_HOST'] }}/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+<script src="https://{{ $_SERVER['HTTP_HOST'] }}/assets/plugins/popper.min.js"></script>
+<script src="https://{{ $_SERVER['HTTP_HOST'] }}/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
 
 <!-- Charts JS -->
-<script src="http://{{ $_SERVER['HTTP_HOST'] }}/assets/plugins/chart.js/chart.min.js"></script>
-<script src="http://{{ $_SERVER['HTTP_HOST'] }}/assets/js/index-charts.js"></script>
+<script src="https://{{ $_SERVER['HTTP_HOST'] }}/assets/plugins/chart.js/chart.min.js"></script>
+<script src="https://{{ $_SERVER['HTTP_HOST'] }}/assets/js/index-charts.js"></script>
 
 <!-- Page Specific JS -->
-<script src="http://{{ $_SERVER['HTTP_HOST'] }}/assets/js/app.js"></script>
+<script src="https://{{ $_SERVER['HTTP_HOST'] }}/assets/js/app.js"></script>
 
 {{-- Font awesome --}}
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
@@ -79,21 +79,21 @@ crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
 
 {{-- JQuery --}}
-{{-- <script src="http://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+{{-- <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
 crossorigin="anonymous"></script>
-<script src="http://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+<script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
 crossorigin="anonymous"></script> --}}
 <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
 crossorigin="anonymous"></script>
 
-<script src="http://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
-<script src="http://cdn.datatables.net/1.11.5/js/dataTables.bootstrap5.min.js"></script>
+<script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.11.5/js/dataTables.bootstrap5.min.js"></script>
 <script src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
 <script src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js"></script>
 <script src="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css"></script>
-<script src="http://cdn.jsdelivr.net/npm/popper.js@1.14.6/dist/umd/popper.min.js"
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.6/dist/umd/popper.min.js"
 integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
-<script src="http://cdn.jsdelivr.net/npm/bootstrap@4.2.1/dist/js/bootstrap.min.js"
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.2.1/dist/js/bootstrap.min.js"
 integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
 
 <script src="sweetalert2.min.js"></script>

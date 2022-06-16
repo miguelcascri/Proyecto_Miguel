@@ -35,7 +35,7 @@
                                 <div class="col-auto">
                                     {{-- <a class="btn app-btn-secondary" href="#">
                                         <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-download me-1"
-                                            fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                            fill="currentColor" xmlns="https://www.w3.org/2000/svg">
                                             <path fill-rule="evenodd"
                                                 d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z" />
                                             <path fill-rule="evenodd"
@@ -340,12 +340,12 @@
             <!--//container-fluid-->
         </div>
         <!--//app-content-->
-        {{-- <script src="http://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
-        <link rel="http://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css">
-        <script src="http://code.jquery.com/jquery-3.5.1.js"></script>
+        {{-- <script src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+        <link rel="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css">
+        <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
         <script src="js/jquery.dataTables.min.js" type="text/javascript"></script>
         <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/sweetalert2@9.17.2/dist/sweetalert2.min.css">
-        <script src="http://cdn.jsdelivr.net/npm/sweetalert2@9.17.2/dist/sweetalert2.min.js"></script> --}}
+        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9.17.2/dist/sweetalert2.min.js"></script> --}}
 
         <script>
             // import swal from 'sweetalert2';
