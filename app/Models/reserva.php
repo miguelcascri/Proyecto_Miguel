@@ -10,7 +10,7 @@ class reserva extends Model
     use HasFactory;
 
     protected $table='reserva';
-    protected $fillable=['referencia','hora','nombre','apellidos','email','DNI','telefono'];
+    protected $fillable=['referencia','hora','fecha','nombre','apellidos','email','DNI','telefono'];
 
 
 
